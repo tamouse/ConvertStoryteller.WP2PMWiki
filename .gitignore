@@ -1,0 +1,21 @@
+# Ignore the usual suspects
+# emacs backups and intermediate files
+*~
+\#*\#
+.\#*
+
+# filter backups
+*.bak
+
+# compressed archives
+*.Z
+*.zip
+*.gz
+*.tar
+*.tgz
+*.bz2
+*.bzip2
+
+imports/
+uploads/
+testfiles/
